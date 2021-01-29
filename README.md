@@ -1,2 +1,2 @@
-# berserk.woosal.com
-Official website of Berserk multipurpose Discord bot.
+# cheggbot-github.io
+Official Chegg BOT Website.
